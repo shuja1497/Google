@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="loading">LOADING</string>
+    <string name="signed_out">Signed out</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="desc_google_icon">Google Logo</string>
+</resources>
